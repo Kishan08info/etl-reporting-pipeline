@@ -1,0 +1,63 @@
+{
+  "period": "2025-01 to 2026-06",
+  "n_months": 18,
+  "mrr_first_month": 11050.4,
+  "mrr_last_month": 163506.1,
+  "mrr_growth_pct": 1379.6,
+  "avg_mom_mrr_growth_pct": 17.52,
+  "active_subs_first_month": 48,
+  "active_subs_last_month": 894,
+  "total_revenue_collected": 1624082.6,
+  "total_refunds": 4088.0,
+  "avg_monthly_churn_rate_pct": 5.16,
+  "best_revenue_month": {
+    "month": "2026-06",
+    "revenue": 176963.6
+  },
+  "worst_revenue_month": {
+    "month": "2025-03",
+    "revenue": 24413.6
+  },
+  "churn_by_channel": [
+    {
+      "channel": "organic",
+      "customers": 504,
+      "subscriptions": 504,
+      "churned_subs": 148,
+      "churn_share_pct": 29.4,
+      "lifetime_revenue": 644605.0
+    },
+    {
+      "channel": "paid_search",
+      "customers": 362,
+      "subscriptions": 362,
+      "churned_subs": 93,
+      "churn_share_pct": 25.7,
+      "lifetime_revenue": 538803.4
+    },
+    {
+      "channel": "referral",
+      "customers": 210,
+      "subscriptions": 210,
+      "churned_subs": 60,
+      "churn_share_pct": 28.6,
+      "lifetime_revenue": 272239.6
+    },
+    {
+      "channel": "partner",
+      "customers": 124,
+      "subscriptions": 124,
+      "churned_subs": 35,
+      "churn_share_pct": 28.2,
+      "lifetime_revenue": 168434.6
+    }
+  ],
+  "top_customer_lifetime_revenue": 21578.4,
+  "top10_customers_share_pct": 10.8,
+  "revenue_by_plan_total": {
+    "enterprise": 726073.2,
+    "growth": 298564.2,
+    "pro": 484454.4,
+    "starter": 114990.8
+  }
+}
